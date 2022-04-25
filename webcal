@@ -3,7 +3,7 @@
 <html>  
 <head>  
 <title>  
-Calculator Program in JavaScript  
+Kale Project WebCalculator 
 </title>  
   
 <!-- Begins the JavaScript Code -->  
@@ -91,7 +91,7 @@ background-color: lightgreen;
 </style>  
 </head>  
 <body>  
-<h1> Calculator Program in JavaScript </h1>  
+<h1> Kale Project WebCalculator </h1>  
  <div class= "formstyle">  
  <form name = "form1">  
  <input class= "textview" name = "textview">  
